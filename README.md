@@ -1,3 +1,6 @@
 # hello-world
 Crazy Banano Repo
-Hi, I'm here mostly for Banano related stuff at the moment although that may change over time. 
+
+Hi, I'm here mostly for anything and everything Banano related.
+Of course, that may change at any time ;)
+
